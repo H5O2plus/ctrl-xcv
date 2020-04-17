@@ -1,6 +1,6 @@
 {
 	"name": "ctrl-xcv",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "A synchronous easy-to-use antifeature-rich dir/file move/copy/paste lib/cli.",
 	"repository": {
 		"type": "git",
