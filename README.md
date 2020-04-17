@@ -5,7 +5,7 @@ Made mainly to test out publishing to npm.
 
 ## Install
 
-Run:
+Run
 
 ```
 npm i ctrl-xcv
