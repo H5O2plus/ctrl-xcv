@@ -1,0 +1,23 @@
+{
+	"name": "ctrl-xcv",
+	"version": "1.0.0",
+	"description": "A synchronous easy-to-use antifeature-rich dir/file move/copy/paste lib/cli.",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/H5O2plus/ctrl-xcv"
+	},
+	"main": "./lib/index.js",
+	"bin": {
+		"ctrl-xcv": "./bin/index.js"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Yuto Nishida <yuyu.nishida@gmail.com>",
+	"license": "MIT",
+	"dependencies": {
+		"chalk": "^4.0.0",
+		"fs-extra": "^9.0.0",
+		"minimist": "^1.2.5"
+	}
+}
